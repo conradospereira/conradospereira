@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hello everybody. My name is Conrado.
+
+Backend student.
+
+[![Twitter Badge](https://img.shields.io/badge/-@coonradopereira-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/coonradopereira)](https://twitter.com/coonradopereira) 
+[![Linkedin Badge](https://img.shields.io/badge/-Conrado%20Pereira-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conrado-spereira/)](https://www.linkedin.com/in/conrado-spereira/) 
+[![Gmail Badge](https://img.shields.io/badge/-conrado.spereira@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:conrado.spereira@gmail.com)](mailto:conrado.spereira@gmail.com)
+
+Enthusiastic about technologies and creating solutions.
+
+A technology student and an aspiring backend developer, here I am, expressing my passion in these repositories that you present to them.
+
+In an (I think) eternal love triangle with technology, music and cinema.
 
 <!--
 **conradospereira/conradospereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
