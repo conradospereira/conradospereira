@@ -10,7 +10,7 @@ Enthusiastic about technologies and creating solutions.
 
 A technology student and an aspiring backend developer, here I am, expressing my passion in these repositories that you present to them.
 
-In an (I think) eternal love triangle with technology, music and cinema. Go A24!
+In an (I think) eternal love triangle with technology, music and cinema. A24, i love you!
 
 <!--
 **conradospereira/conradospereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
